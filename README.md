@@ -20,8 +20,8 @@ Run the file
 python Hareruya.py
 ```
 
-## Liscense
-MIT liscence for fair use
+## License
+This project is licensed under the MIT License.
 
 ## Author
 Alex McKinley
