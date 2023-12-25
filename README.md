@@ -8,15 +8,15 @@ to parse the HTML. It then uses pandas to create a CSV file as well as an Excel 
 ## Installation
 You will need to intall the following packages
 
-'''bash
+```bash
 python pip install bs4, playwright, pandas
-'''
+```
 
 Copy the file to a directory of your choice
 
 Run the file
 
-'''bash
+```bash
 python Hareruya.py
 ```
 
