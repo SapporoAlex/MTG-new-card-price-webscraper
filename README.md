@@ -11,7 +11,7 @@ to parse the HTML. It then uses pandas to create a CSV file as well as an Excel 
 You will need to intall the following packages
 
 ```bash
-python pip install bs4, playwright, pandas
+pip install bs4, playwright, pandas
 ```
 
 Copy the file to a directory of your choice
@@ -19,7 +19,7 @@ Copy the file to a directory of your choice
 Run the file
 
 ```bash
-python Hareruya.py
+Hareruya.py
 ```
 
 ## License
