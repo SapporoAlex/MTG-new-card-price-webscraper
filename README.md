@@ -8,7 +8,7 @@ I did this for a friend who is always looking for the latest deals from his favo
 to parse the HTML. It then uses pandas to create a CSV file as well as an Excel file for my friend to easily read.
 
 ## Installation
-You will need to intall the following packages
+You will need to install the following packages
 
 ```bash
 python pip install bs4, playwright, pandas
