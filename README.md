@@ -1,6 +1,6 @@
 # Webscraper for Magic the Gathering Card Prices
 
-![MTGyo](https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Magic_the_gathering-card_back.jpg/220px-Magic_the_gathering-card_back.jpg)
+![MTGyo](preview.png)
 
 ## Description
 I built a simple webscraper that can take the prices and some basic details of the latest new available cards from this website.
